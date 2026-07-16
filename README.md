@@ -118,6 +118,13 @@ This makes the repair process:
 
 ✔️ Beginner-friendly
 
+
+---
+
+## 📥 Installation
+
+Download [**WindowsUpdateFixer.zip**](https://github.com/methimi/Windows-Update-Fixer/releases/download/Windows_Update_Fixer/WindowsUpdateFixer.zip), extract it, and run **WindowsUpdateFixer.exe** as Administrator.
+
 ---
 
 ## 🖥️ Supported Operating Systems
