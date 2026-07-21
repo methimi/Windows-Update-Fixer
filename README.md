@@ -123,7 +123,7 @@ This makes the repair process:
 
 ## 📥 Installation
 
-Download [**WindowsUpdateFixer.zip**](https://github.com/methimi/Windows-Update-Fixer/releases/download/Windows_Update_Fixer/WindowsUpdateFixer.zip), extract it, and run **WindowsUpdateFixer.exe** as Administrator.
+Download [**WindowsUpdateFixer.zip**](https://github.com/methimi/Windows-Update-Fixer/releases/download/Windows_Update_Fixer_v1.0.0/WindowsUpdateFixer.zip), extract it, and run **WindowsUpdateFixer.exe** as Administrator.
 
 ---
 
